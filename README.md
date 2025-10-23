@@ -43,8 +43,6 @@
 - **ZoraDiscordBot** – Discord bot for **on-chain coin discovery**, with Gemini AI integration  
   ↳ Repo: <https://github.com/AlasteirHo/ZoraDiscordBot>
 
-> Tip: pin your favourite repos so they appear at the top of your profile.
-
 ---
 
 ### 📊 GitHub stats
@@ -54,8 +52,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlasteirHo&layout=compact" alt="Top languages" />
 </p>
-<!-- Optional activity graph: -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlasteirHo&theme=github-compact" alt="Activity graph" /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlasteirHo&theme=github-compact" alt="Activity graph" /> 
 
 ---
 
