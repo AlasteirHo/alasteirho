@@ -22,7 +22,7 @@
 ---
 
 ### 🧰 Tech stack
-**Languages:** Python · Java · JavaScript/TypeScript · R · C/AVR Assembly · SQL · Lex/Yacc  
+**Languages:** Python · Java · R · C/AVR Assembly · SQL · Lex/Yacc  
 **ML/DS:** TensorFlow/Keras · NumPy · pandas · Jupyter  
 **Platforms/Tools:** Git · GitHub · Azure DevOps · Hadoop · WordPress  
 **OS:** Windows · Linux
