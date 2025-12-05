@@ -15,8 +15,7 @@
 
 ### 🧑‍💻 About me
 - I enjoy building **ML-driven systems**, **simulations**, and **developer tooling**.
-- Comfortable across **Python / Java / JavaScript**, with experience in **Jupyter**, **TensorFlow/Keras**, and classic **compiler tooling (lex/yacc)**.
-- Previously helped streamline operations in the **Singapore Armed Forces** by building a digital inventory workflow.
+- Comfortable across **Python / Java / Assembly Language**, with experience in **Jupyter**, **TensorFlow/Keras**, and classic **compiler tooling (lex/yacc)**.
 - Always up for hackathons, learning sprints, and shipping useful tools.
 
 ---
