@@ -41,17 +41,6 @@
   ↳ Repo: <https://github.com/AlasteirHo/FreeChat>
 - **ZoraDiscordBot** – Discord bot for **on-chain coin discovery**, with Gemini AI integration  
   ↳ Repo: <https://github.com/AlasteirHo/ZoraDiscordBot>
-
----
-
-### 📊 GitHub stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlasteirHo&show_icons=true" alt="GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlasteirHo&layout=compact" alt="Top languages" />
-</p>
-
 ---
 
 ### 🎯 What I’m focusing on
