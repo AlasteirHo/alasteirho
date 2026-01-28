@@ -6,10 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:alasteirho@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/alasteir-ho/">LinkedIn</a> ·
-  <a href="https://github.com/AlasteirHo?tab=repositories">Repos</a> ·
-  <img src="https://komarev.com/ghpvc/?username=AlasteirHo&label=Views&color=0e75b6&style=flat" alt="Views" />
+  <a href="mailto:alasteirho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alasteirho%40gmail.com-informational?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alasteir-ho/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alasteir%20Ho-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AlasteirHo?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repos-black?style=flat&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AlasteirHo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
