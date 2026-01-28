@@ -8,7 +8,8 @@
 <p align="center">
   <a href="mailto:alasteirho@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/alasteir-ho/">LinkedIn</a> ·
-  <a href="https://github.com/AlasteirHo?tab=repositories">Repos</a>
+  <a href="https://github.com/AlasteirHo?tab=repositories">Repos</a> ·
+  <img src="https://komarev.com/ghpvc/?username=AlasteirHo&label=Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ---
