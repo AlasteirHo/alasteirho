@@ -15,8 +15,12 @@
   <a href="https://github.com/AlasteirHo?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repos-black?style=flat&logo=github&logoColor=white" />
   </a>
+  <a href="https://huggingface.co/alasteirho">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=flat&logo=huggingface&logoColor=black" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=AlasteirHo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 ---
 
