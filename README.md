@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi, I'm Alasteir 👋</h1>
 <p align="center">
-  Final-year BSc Computer Science student @ University of Greenwich · London, UK  
+  Graduate Computer Sciencience from The University of Greenwich · London, UK  
+  Grade: First Class Honours
 </p>
 
 <p align="center">
