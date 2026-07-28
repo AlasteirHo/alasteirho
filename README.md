@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi, I'm Alasteir 👋</h1>
 <p align="center">
-  Graduate Computer Sciencience from The University of Greenwich · London, UK  
-  Grade: First Class Honours
+  Graduated with First Class Honours in Computer Science from The University of Greenwich · London, UK  
 </p>
 
 <p align="center">
