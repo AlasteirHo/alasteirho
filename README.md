@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=700&lines=Attention+networks+for+portfolio+optimisation;Fine-tuned+financial+NLP+models+on+Hugging+Face;On-chain+Discord+tooling+with+the+Zora+SDK;LSTM+forecasting+tuned+with+Bayesian+optimisation;Multithreaded+Java+systems+and+lex%2Fyacc+compilers;Reproducible+pipelines%2C+honest+baselines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=700&lines=Attention+networks+for+portfolio+optimisation;Fine-tuned+financial+NLP+models+on+Hugging+Face;ETL+pipelines+for+scraped+news+and+social+data;LSTM+forecasting+tuned+with+Bayesian+optimisation;On-chain+Discord+tooling+with+the+Zora+SDK;Reproducible+pipelines%2C+honest+baselines" />
 </p>
 
 <br>
 
 ## 🧑‍💻 About
 
-I am an aspiring ML engineer based in London, with a First Class BSc (Hons) in Computer Science from the University of Greenwich. My focus is LLM applications, financial NLP, and building evaluation harnesses that actually tell you whether a change helped.
+I am an aspiring ML engineer with a First Class BSc (Hons) in Computer Science from the University of Greenwich. My interests are model development and training, building data and ETL pipelines, and data analysis: taking messy data from source to usable state, then building and evaluating models on top of it.
 
 I build ML systems end to end: scrapers, training loops, evaluation, and a working interface on top. Most of my recent work is PyTorch and Transformers applied to financial NLP and quantitative modelling. Three Encode Club hackathons in London, including a bounty win.
 
@@ -46,6 +46,14 @@ If I cannot reproduce it, I do not report it. My final year project has an out-o
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
 </p>
 
 <p>
@@ -180,9 +188,10 @@ LSTM pipeline predicting 5-day price movement from engineered features and slidi
 
 ## 🎯 Currently
 
-- **LLM applications**: prompting, retrieval, and evaluation harnesses that measure whether a change actually helped
-- **Productionising ML**: reproducible environments, versioned models, tracked metrics
-- **Open to**: junior ML and AI engineering roles in London and Singapore
+- **Pipelines**: end-to-end data flows from collection through cleaning, labelling, and aggregation to model input, built to run again without hand-holding
+- **ML development and training**: architecture design, training loops, hyperparameter tuning, and evaluation that measures whether a change actually helped
+- **Data analysis**: exploratory work, statistical testing, and visualisation that makes the result legible to someone else
+- **Open to**: junior ML, data, and analytics engineering roles in Singapore and the UK
 
 ---
 
