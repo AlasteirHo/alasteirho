@@ -1,4 +1,5 @@
 <!-- Profile README for @AlasteirHo -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Alasteir%20Ho&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20ML%20Engineer%20%7C%20First%20Class%20BSc%20Computer%20Science%20Graduate&descAlignY=55&descSize=18" width="100%" />
 </p>
@@ -11,24 +12,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Attention+networks+for+portfolio+optimisation;Fine-tuned+financial+NLP+models;Reproducible+pipelines%2C+honest+baselines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=700&lines=Attention+networks+for+portfolio+optimisation;Fine-tuned+financial+NLP+models+on+Hugging+Face;On-chain+Discord+tooling+with+the+Zora+SDK;LSTM+forecasting+tuned+with+Bayesian+optimisation;Multithreaded+Java+systems+and+lex%2Fyacc+compilers;Reproducible+pipelines%2C+honest+baselines" />
 </p>
 
 <br>
 
 ## 🧑‍💻 About
 
-```python
-class Alasteir:
-    def __init__(self):
-        self.role      = "ML Engineer"
-        self.education = "BSc (Hons) Computer Science, First Class"
-        self.based_in  = "London, UK"
-        self.focus     = ["LLM applications", "financial NLP", "evaluation harnesses"]
-        self.principle = "If I can't reproduce it, I don't report it."
-```
+I am an aspiring ML engineer based in London, with a First Class BSc (Hons) in Computer Science from the University of Greenwich. My focus is LLM applications, financial NLP, and building evaluation harnesses that actually tell you whether a change helped.
 
 I build ML systems end to end: scrapers, training loops, evaluation, and a working interface on top. Most of my recent work is PyTorch and Transformers applied to financial NLP and quantitative modelling. Three Encode Club hackathons in London, including a bounty win.
+
+If I cannot reproduce it, I do not report it. My final year project has an out-of-sample result that went against me, and it is written up in full.
 
 <br>
 
@@ -152,12 +147,34 @@ LSTM pipeline predicting 5-day price movement from engineered features and slidi
 
 ## 📜 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning%20for%20Trading-NYIF%20%2B%20Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Networking-Google-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technical%20Support%20Fundamentals-Google-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20Data%20Structures-U.%20of%20Michigan-00274C?style=flat-square" />
-</p>
+**Machine Learning & AI**
+
+| Credential | Issuer | Date |
+| --- | --- | --- |
+| [Machine Learning for Trading Specialization](https://www.coursera.org/account/accomplishments/specialization/R6YFE10X0TKZ) | New York Institute of Finance, Google Cloud | Dec 2024 |
+| [Reinforcement Learning for Trading Strategies](https://www.coursera.org/account/accomplishments/records/4F3P8T71OVA4) | New York Institute of Finance, Google Cloud | Dec 2024 |
+| [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/account/accomplishments/records/KQU25R8Q7U7N) | Google Cloud, New York Institute of Finance | May 2024 |
+| [Introduction to Generative AI](https://www.coursera.org/account/accomplishments/records/FE9XFBQ34LTX) | Google Cloud | Mar 2024 |
+
+**Programming & Data**
+
+| Credential | Issuer | Date |
+| --- | --- | --- |
+| [Python Data Structures](https://www.coursera.org/account/accomplishments/records/QLYGBK3LVPSA) | University of Michigan | Feb 2024 |
+| [SQL (Intermediate)](https://www.hackerrank.com/certificates/41acd9676663) | HackerRank | Feb 2024 |
+| [Problem Solving (Basic)](https://www.hackerrank.com/certificates/b522b4e45e7b) | HackerRank | Feb 2024 |
+
+<details>
+<summary><b>IT foundations</b></summary>
+
+<br>
+
+| Credential | Issuer | Date |
+| --- | --- | --- |
+| [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/JNEA6KYXZSA7) | Google | Jul 2020 |
+| [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/QKMEK5M5HB6F) | Google | Jul 2020 |
+
+</details>
 
 <br>
 
