@@ -1,4 +1,4 @@
-<!-- Profile README for @AlasteirHo -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Alasteir%20Ho&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20ML%20Engineer%20%7C%20First%20Class%20BSc%20Computer%20Science%20Graduate&descAlignY=55&descSize=18" width="100%" />
@@ -152,44 +152,4 @@ LSTM pipeline predicting 5-day price movement from engineered features and slidi
 | Credential | Issuer | Date |
 | --- | --- | --- |
 | [Machine Learning for Trading Specialization](https://www.coursera.org/account/accomplishments/specialization/R6YFE10X0TKZ) | New York Institute of Finance, Google Cloud | Dec 2024 |
-| [Reinforcement Learning for Trading Strategies](https://www.coursera.org/account/accomplishments/records/4F3P8T71OVA4) | New York Institute of Finance, Google Cloud | Dec 2024 |
-| [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/account/accomplishments/records/KQU25R8Q7U7N) | Google Cloud, New York Institute of Finance | May 2024 |
-| [Introduction to Generative AI](https://www.coursera.org/account/accomplishments/records/FE9XFBQ34LTX) | Google Cloud | Mar 2024 |
-
-**Programming & Data**
-
-| Credential | Issuer | Date |
-| --- | --- | --- |
-| [Python Data Structures](https://www.coursera.org/account/accomplishments/records/QLYGBK3LVPSA) | University of Michigan | Feb 2024 |
-| [SQL (Intermediate)](https://www.hackerrank.com/certificates/41acd9676663) | HackerRank | Feb 2024 |
-| [Problem Solving (Basic)](https://www.hackerrank.com/certificates/b522b4e45e7b) | HackerRank | Feb 2024 |
-
-<details>
-<summary><b>IT foundations</b></summary>
-
-<br>
-
-| Credential | Issuer | Date |
-| --- | --- | --- |
-| [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/JNEA6KYXZSA7) | Google | Jul 2020 |
-| [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/QKMEK5M5HB6F) | Google | Jul 2020 |
-
-</details>
-
-<br>
-
-## 🎯 Currently
-
-- **LLM applications**: prompting, retrieval, and evaluation harnesses that measure whether a change actually helped
-- **Productionising ML**: reproducible environments, versioned models, tracked metrics
-- **Open to**: junior ML and AI engineering roles in London and Singapore
-
----
-
-<p align="center">
-  <i>If something here sparks an idea, reach out or open an issue on any repo.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" width="100%" />
-</p>
+|
