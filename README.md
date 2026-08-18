@@ -1,8 +1,8 @@
 <!-- Profile README for @AlasteirHo -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Alasteir%20Ho&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20 ML%20Engineer%20%7C%20BSc%20Computer%20Science,%20First%20Class%20Honours%20Graduate&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Alasteir%20Ho&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20ML%20Engineer%20%7C%20First%20Class%20BSc%20Computer%20Science%20Graduate&descAlignY=55&descSize=18" width="100%" />
 </p>
+        self.role      = "Aspiring ML Engineer"
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alasteir-ho/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
